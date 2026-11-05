@@ -1,12 +1,6 @@
-<div align="center">
+# Gabriel Seitune
 
-<img src="./selvarena-logo.png" alt="Gabriel Seitune" width="300" />
-
-### Gabriel Seitune
-
-Industrial designer turned fullstack developer. I build web apps that people actually use.
-
-</div>
+**Industrial designer turned fullstack developer.** I build web apps that people actually use.
 
 ---
 
@@ -14,7 +8,7 @@ Industrial designer turned fullstack developer. I build web apps that people act
 
 ### Eclipse — volleyball tournament management
 
-Live match scoring, court scheduling, adaptive group formats and bracket generation. Running in production for a real tournament series in Misiones, Argentina.
+Live match scoring, court scheduling, adaptive group formats and bracket generation. Running in production for the tournaments organized at SELVARENA in Misiones, Argentina.
 
 `Next.js` · `React` · `TypeScript` · `Prisma` · `Turso` · `Tailwind CSS` · `PWA`
 
