@@ -32,4 +32,4 @@ Tooling    Vercel · Prisma Migrate · node --test
 
 ## Contact
 
-**[GitHub](https://github.com/gseitune)** · **[Eclipse live](https://selvarena.vercel.app)**
+**[GitHub](https://github.com/gseitune)** · **[LinkedIn](https://www.linkedin.com/in/gseitune)** · **[Eclipse live](https://selvarena.vercel.app)**
